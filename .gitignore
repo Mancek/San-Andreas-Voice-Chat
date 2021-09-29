@@ -1,0 +1,5 @@
+.vs/
+bin/
+client/temp/
+server/temp/
+*.lck
